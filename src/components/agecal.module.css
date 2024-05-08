@@ -86,3 +86,12 @@ button{
   @keyframes l2 {
     100% {transform: rotate(0.4deg)}
   }
+  .copyrights{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    font-size: 13px;
+    font-weight: 600;
+    color: #fff;
+  }

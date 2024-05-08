@@ -72,6 +72,8 @@ const AgeCal = () => {
 
                 </center>
             </div>
+            <center className={Style.copyrights}>© Design by Gaganraj</center>
+            
         </div>
     );
 };
