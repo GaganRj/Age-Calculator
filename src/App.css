@@ -1,0 +1,10 @@
+#root {
+  /* margin: 0px; */
+  place-items: center;
+  width: 100vw;
+  min-width: 320px;
+  min-height: 100vh;
+  overflow-x: hidden;
+  box-sizing: border-box;
+  
+}
